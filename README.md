@@ -1,7 +1,7 @@
  
 
 <p align="center">
-   <img src="./capa.png" alt="Demonstração do projeto" widht= "100%">
+   <img src=".img/capa.png" alt="Demonstração do projeto" widht= "100%">
 </p>
 </p>
 
